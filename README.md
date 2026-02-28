@@ -42,7 +42,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/OpenGL-Scene-Project.git
+git clone https://github.com/morutanmaria/OpenGL-Scene-Project.git
 cd OpenGL-Scene-Project
 
 Dependencies:
